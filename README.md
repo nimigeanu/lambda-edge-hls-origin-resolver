@@ -1,0 +1,1 @@
+# lambda-edge-hls-origin-resolver
